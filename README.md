@@ -32,9 +32,13 @@ Lista:
 * Registro 3
 
 Lista Anidada:
-1. Nivel 1
-    2. Nivel 2
-        3. Nivel 3  
+1. Primer paso principal
+   - Subítem con viñeta A
+   - Subítem con viñeta B
+2. Segundo paso principal
+   1. Subnivel numérico 1
+   2. Subnivel numérico 2
+
 
 `print("Mensaje de código)`
 ```
