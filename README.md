@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hola, mi nombre es Ricardo Calderón 
+## Encabezado de segundo nivel
+#### Encabezado de cuarto nivel
 
 <!--
 **richy83/richy83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
