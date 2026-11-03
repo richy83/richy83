@@ -2,26 +2,39 @@
 ## Encabezado de segundo nivel
 #### Encabezado de cuarto nivel
 ** Esto es un ejercicio del curso**
+
 Como tarea personal, la iré actualizando con información **correcta**
 *Ejemplo de texto en cursiva*
+
 Ahora *palabras* sueltas en *cursiva*
+
 ***Negrita y cursiva***
+
 <ins>Subrayar texto</ins>
+
 Voy a crear un <sub>subindice</sub>
+
 Ahora un <sup>superindice</sup>
+
 [Link a mi GitHub](https://github.com/richy83)
+
 Link de foto:
+
 ![](url)
+
 [![Enlace de foto](url foto)](url)
+
 > Cita número 1
+
 Lista:
 * Registro 1
 * Registro 2
 * Registro 3
+
 Lista Anidada:
 1. Nivel 1
-  2. Nivel 2
-      3. Nivel 3
+2. Nivel 2
+3. Nivel 3
 
 `print("Mensaje de código)`
 ```
@@ -30,9 +43,12 @@ for index in range (0, 10):
   if index == 5:
     break
 ```
+
 |# |Curso        |Temas|
+|--|-------------|-----|
 |1 |Git y GitHub |20   |
 |2 |JavaScript   |22   |
+
 
 <table>
   <thead>
